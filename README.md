@@ -1,4 +1,5 @@
 1. List of Materials (in Markdown format)
+
 No other materials are needed at this time.
 
 2. Circuit Documentation (for Posture Corrector)
@@ -6,7 +7,7 @@ Setup: A Raspberry Pi connected to a camera module.
 The camera is used to monitor posture. No other components are required for this version.
 
 
-Replace the path above with the actual image or leave as a placeholder if not submitting digitally.
+
 
 3. Stepper Motor Control via MQTT (Crickit HAT + Raspberry Pi)
 This script runs on a Raspberry Pi with an Adafruit Crickit HAT and spins a stepper motor when a temperature value received over MQTT exceeds 24°C.
